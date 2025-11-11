@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Lucasmdl21</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="120px"/>
+</p>
 
-<!--
-**Lucasmdl21/Lucasmdl21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Curso:** (Seu curso ou área)  
+- 💼 **Trabalhando como:** (Seu cargo/empresa)  
+- 👨‍💻 **Atualmente aprendendo:** (Tecnologias ou temas que está estudando)  
+- 📫 **Contato:** lucasmdl21@exemplo.com  
+- 🌐 [LinkedIn](https://linkedin.com/in/seuperfil) | [Portfolio](https://seuportfolio.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=fff)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=fff)
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasmdl21&theme=dark&show_icons=true" alt="lucasmdl21 stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmdl21&theme=dark" alt="lucasmdl21 streak"/>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmdl21&theme=github_dark"/>
+</p>
+
+---
+
+## ⚡ Curiosidades
+
+- Apaixonado por tecnologia e inovação!
+- Sempre em busca de novos desafios.
+
+---
+
+_Sinta-se à vontade para conectar comigo!_
